@@ -1,4 +1,12 @@
+![Header](images/header.png)
 # Titanic Survival Prediction Project
+
+![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
+![Jupyter Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange?logo=jupyter)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn%20%7C%20XGBoost-green?logo=scikitlearn)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
 
 ## 📌 Overview
 
@@ -123,10 +131,14 @@ Both pipelines include preprocessing + model, making them portable and ready for
 
 ---
 
-## 📢 LinkedIn Post Guidance
 
-Share a screenshot of your confusion matrix or ROC curve and highlight:
+## 📬 Contact Me
+<img src="images/profile.png" alt="Profile" width="400" height="400">
 
-"Sometimes the simplest model (Logistic Regression) can match advanced ones like XGBoost. Always benchmark before adding complexity."
 
-Tag with: `#CodingAtom #MachineLearning #DataScience`
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/leonardphokane)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/leonard-phokane)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:leonard.phokane@10x.ai)
+
+![Header](images/header.png)
+
