@@ -140,5 +140,5 @@ Both pipelines include preprocessing + model, making them portable and ready for
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/leonard-phokane)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:leonard.phokane@10x.ai)
 
-![Header](images/header.png)
+![Footer](images/footer.png)
 
