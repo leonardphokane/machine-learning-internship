@@ -148,5 +148,5 @@ I enjoy building technical demos, exploring full‑stack projects, and applying 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/leonard-phokane)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:leonard.phokane@10x.ai)
 
-<img src="images/footer.png" alt="footer" width="600"  height="200">
+<img src="images/footer.png" alt="footer" width="900"  height="300">
 
