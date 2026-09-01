@@ -133,9 +133,11 @@ Both pipelines include preprocessing + model, making them portable and ready for
 
 ## 👨‍💻 About the Author
 <img src="images/profile.png" alt="Profile" width="400" height="400">
+
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/leonardphokane)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/leonard-phokane)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:leonard.phokane@10x.ai)
+
 **Leonard Phokane**  
 — AI/ML student & freelance full‑stack engineer.
 Built as part of the **CodingAtom Fullstack Engineering Internship Assessment**.
