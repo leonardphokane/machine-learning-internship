@@ -131,9 +131,18 @@ Both pipelines include preprocessing + model, making them portable and ready for
 
 ---
 
+## 👨‍💻 About the Author
+<img src="images/profile.png" alt="Profile" width="400" height="400">
+
+**Leonard Phokane**  
+🎓 AI/ML Track – FlyRank AI 
+💻 Freelance Full‑Stack Engineer  
+🚀 CodingAtom Engineering Internship – Machine Learning Track  
+
+I enjoy building technical demos, exploring full‑stack projects, and applying machine learning to real‑world problems. Connect with me on [LinkedIn](https://www.linkedin.com/in/your-link) or check out my GitHub repos for more projects.
 
 ## 📬 Contact Me
-<img src="images/profile.png" alt="Profile" width="400" height="400">
+
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/leonardphokane)
