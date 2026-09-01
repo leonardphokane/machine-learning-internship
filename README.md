@@ -135,9 +135,8 @@ Both pipelines include preprocessing + model, making them portable and ready for
 <img src="images/profile.png" alt="Profile" width="400" height="400">
 
 **Leonard Phokane**  
-🎓 AI/ML Track – FlyRank AI 
-💻 Freelance Full‑Stack Engineer  
-🚀 CodingAtom Engineering Internship – Machine Learning Track  
+— AI/ML student & freelance full‑stack engineer.
+Built as part of the **CodingAtom Fullstack Engineering Internship Assessment**.
 
 I enjoy building technical demos, exploring full‑stack projects, and applying machine learning to real‑world problems. Connect with me on [LinkedIn](https://www.linkedin.com/in/your-link) or check out my GitHub repos for more projects.
 
